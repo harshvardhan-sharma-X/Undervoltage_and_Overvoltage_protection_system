@@ -10,6 +10,7 @@ It utilizes an LCD to display the real-time voltage and system status and a rela
 
 The image below shows the assembled hardware, including the Arduino, voltage sensor, relay module, and LCD display.
 
+![Simulation Circuit.jpg](https://github.com/harshvardhan-sharma-X/Undervoltage_and_Overvoltage_protection_system/blob/main/Simulation%20Circuit.png?raw=true)
 ![Normal Image.jpg](https://github.com/harshvardhan-sharma-X/Undervoltage_and_Overvoltage_protection_system/blob/main/Simulation%20Circuit.png?raw=true)
 *(Note: Replace the placeholder image URL with the actual link to your hosted image.)*
 
